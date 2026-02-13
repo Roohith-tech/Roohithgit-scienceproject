@@ -1,6 +1,6 @@
 # Roohithgit-scienceproject
 
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/a877d432-6f06-49bf-bb82-bdd22ee6792f" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/a877d432-6f06-49bf-bb82-bdd22ee6792f" />
 
 
 ## Notes
